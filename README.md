@@ -38,3 +38,8 @@ not encrypted: README.md
 not encrypted: src/main.rs
 
 
+=> https://github.com/jprio/git-crypt-tuto/blob/master/.envrc : not in plain text !
+
+* Use it
+
+Now we can locally "source .envrc"

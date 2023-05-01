@@ -43,3 +43,5 @@ not encrypted: src/main.rs
 * Use it
 
 Now we can locally "source .envrc"
+
+* Auto-source .envrc file in new terminal : see direnv (https://direnv.net/)
